@@ -8,7 +8,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Version](#version)
-* [Instructions](#instructions)
 * [Technologies](#technologies)
 * [Download](#download)
 * [Screenshot](#screenshot)
@@ -20,18 +19,6 @@ You can easily download videos from Youtube with this program
 ## Version
 Latest version 1.0.0
 
-## Instructions
-* NodeJS required.
-* Copy snippet and paste into your terminal.
-```
-git clone https://github.com/ridzcode/Yodo.git
-```
-```
-cd YoDo
-```
-```
-npm start
-```
 ## Technologies
 * HTML
 * CSS
