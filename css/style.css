@@ -1,0 +1,34 @@
+* {
+    text-align: center;
+    background-color: rgb(116, 116, 116);
+}
+.version {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+}
+.heading {
+    font-family: Arial;
+    margin-top:30vh;
+}
+.URL-input, .convert-button {
+    font-size:1.3em;
+    padding:5px 10px;
+}
+.URL-input {
+    border-radius: 10px 100px / 120px;
+    width:30em;
+    text-align: center;
+    border:2px solid #EEEEEE;
+    background: #EEEEEE;
+    outline:none;
+}
+.URL-input:focus {
+    border:2px solid #ff0404;
+}
+.convert-button {
+    border-radius:10px 100px / 120px;
+    border:2px solid #ff0404;
+    background: #ff0404;
+    color:white;
+}
